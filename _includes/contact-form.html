@@ -4,17 +4,17 @@
 
 		<div class="contact-form__item">
 			<label class="contact-form__label">Email Address *</label>
-			<input type="text" name="email" placeholder="Your email address..." class="contact-form__input">
+			<input required type="text" name="email" placeholder="Your email address..." class="contact-form__input">
 		</div>
 
 		<div class="contact-form__item">
 			<label class="contact-form__label">Name *</label>
-			<input type="text" name="name" placeholder="Your name..." class="contact-form__input">
+			<input required type="text" name="name" placeholder="Your name..." class="contact-form__input">
 		</div>
 
 		<div class="contact-form__item">
 			<label class="contact-form__label">Message *</label>
-			<textarea name="message" placeholder="Your message..." class="contact-form__textarea"></textarea>
+			<textarea required name="message" placeholder="Your message..." class="contact-form__textarea"></textarea>
 		</div>
 
 		<input type="hidden" name="_next" value="{{ site.data.settings.contact_settings.confirmation_url }}" />

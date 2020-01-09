@@ -25,11 +25,11 @@ As an Internal Auditor turned Front-End Web-Developer, I enjoy using my attentio
 * Jasmine Framework (Test Driven Development)
 
 
-## Features
+{% comment %}## Features
 
 We've packed Personal full of powerful features to help showcase your work:
 
-* Beautiful, minimal design
+* 
 * Large header image and single column post layout
 * Responsive – works perfectly on all devices
 * Portfolio post type
@@ -49,4 +49,4 @@ We've packed Personal full of powerful features to help showcase your work:
 
 Personal is created and supported by [Jekyll Themes](https://jekyllthemes.io), and is available for $39.
 
-<a href="https://jekyllthemes.io/theme/personal-website-jekyll-theme" class="button button--large">Get This Theme</a>
+<a href="https://jekyllthemes.io/theme/personal-website-jekyll-theme" class="button button--large">Get This Theme</a>{% endcomment %}
