@@ -4,23 +4,30 @@ subtitle: 'A readaptation of the classic arcade game'
 date: 2018-06-30 00:00:00
 description: With provided visual assets and game loop engine, a number of entities were added to the game including player characters and enemies to recreate this classic game.
 featured_image: '/images/arcade-game-app/arcade1.jpg'
+repo_link: https://github.com/amar086/frontend-nanodegree-arcade-game
+app_link: https://master.dawnf2jjpelfq.amplifyapp.com/
 ---
 
 ![](/images/arcade-game-app/arcade1.jpg)
 
-<a href="https://master.dawnf2jjpelfq.amplifyapp.com/" class="button button--large">Go To App</a>
-<a href="https://github.com/amar086/frontend-nanodegree-arcade-game" class="button button--large">GitHub</a>
-
 ## Project Description
 
-Here, I have been provided with visual assets and a game loop engine that have been used to recreate the classic arcade game where there is a player trying to reach the top of a game board and has ennemies to conquer. Oject-oriented Programming and HTML Canvas were utilized for this clone of the game. Once the player reaches the top of the board, the game is won.
+Here, I have been provided with visual assets and a game loop engine that have been used to recreate the classic arcade game where there is a player trying to reach the top of a game board and has ennemies to conquer. Oject-oriented Programming and HTML Canvas were utilized for this clone of the game. Once the player reaches the top of the board, the game is won. 
 
-Summary of the tools and technologies used:
+ This application demonstrates: 
+ * JavaScript’s object oriented programming (OOP) features to write eloquently designed classes capable of creating countless instances of similarly functioning objects.
+ * Inheritance and delegation to create well-architected and performant applications.
 
+
+Summary of the tools and technologies used: 
 * JavaScript
-* Object-oriented Programming
+* Event handling
+* Bootstrap 4
+* CSS3
+* Object-oriented Programming (OOP) 
 * HTML5 Canvas
-
+* Github 
+* Git 
 
 
 
@@ -66,7 +73,3 @@ A nice little feature: the carousel only advances when it is in view, so your vi
 	<img src="/images/arcade-game-app/arcade1.jpg">
 	<img src="/images/arcade-game-app/arcade2.jpg">
 </div>
-
-
-<a href="https://master.dawnf2jjpelfq.amplifyapp.com/" class="button button--large">Go To App</a>
-<a href="https://github.com/amar086/frontend-nanodegree-arcade-game" class="button button--large">GitHub</a>

@@ -2,32 +2,37 @@
 title: 'Neighborhood Map'
 subtitle: 'A React application that helps users find restaurants in a neighborhood'
 date: 2018-06-30 00:00:00
-description: This is a single page map app built with React and the Google Maps API. It integrates a third-party data API and is accessible and usable offline.
+description: This is a single page map app built with React and the Google Maps API. It integrates a third-party data API and is accessible and usable offline. 
 featured_image: '/images/neighborhood-map/nbhm-1.jpg'
+repo_link:  https://github.com/amar086/neighborhood-map-react
+app_link: https://master.d38mkjexlsl8n9.amplifyapp.com/
 ---
 
 ![](/images/neighborhood-map/nbhm-1.jpg)
 
-<a href="https://master.d38mkjexlsl8n9.amplifyapp.com/" class="button button--large">Go To App</a>
-<a href="https://github.com/amar086/neighborhood-map-react" class="button button--large">GitHub</a>
-
 
 ## Project Description
 
-This project is a single-page application that I created using React and that features a map of a neighborhood. I then added additional functionality to this application, including: map markers to identify popular restaurants in the neighborhood, a search function to easily discover these restaurants, and a list view to support simple browsing of all locations. I then implemented third-party APIs that provide additional information about each of these restaurants. All application components render on-screen in a responsive manner, follow accessibility rules and is available offline.
+This project is a single-page application that I created using React and that features a map of a neighborhood. I then added additional functionality to this application, including: 
+* map markers to identify popular restaurants in the neighborhood, 
+* a search function to easily discover these restaurants 
+* a list view to support simple browsing of all locations. 
+
+I then implemented third-party APIs that provide additional information about each of these restaurants. All application components render on-screen in a responsive manner, follow accessibility rules and is available offline.
 
 Overall, the application's interface is really intuitive to use, making the experience straightforward for any user.
 
-## Skills
+### Skills
 
 * ReactJS
-* API servers
-ES6
+* Javascript
+* CSS3
+* Call to an external API server
+* ES6
 * Asynchronous Programming
-* Responsive designs
+* Responsive Web Designs
 * Web accessibility
 * Service Worker
-
 
 {% comment %}You can also add blockquotes, which are shown at a larger width to help break up the layout and draw attention to key parts of your content:
 
@@ -73,8 +78,3 @@ A nice little feature: the carousel only advances when it is in view, so your vi
 	<img src="/images/neighborhood-map/nbhm-2.jpg">
 	<img src="/images/neighborhood-map/nbhm-3.jpg">
 </div>
-
-
-
-<a href="https://master.d38mkjexlsl8n9.amplifyapp.com/" class="button button--large">Go To App</a>
-<a href="https://github.com/amar086/neighborhood-map-react" class="button button--large">GitHub</a>

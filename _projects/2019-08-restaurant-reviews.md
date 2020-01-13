@@ -2,25 +2,31 @@
 title: 'Restaurant Reviews App'
 subtitle: 'A responsive and mobile ready restaurant reviews application'
 date: 2018-06-30 00:00:00
-description: In this real world case study, given the front-end code for a static restaurant reviews app, the site has been revised to be responsive and achieve accessibility standards.
+description: This is a single page application built using ReactJs to allow you to browse restaurant reviews.
 featured_image: '/images/restaurant-review-app/restau-reviews1.jpg'
+repo_link: https://github.com/amar086/mws-restaurant-stage-1
+app_link: https://master.d3piu59ky8arg.amplifyapp.com/
 ---
 
 ![](/images/restaurant-review-app/restau-reviews1.jpg)
 
-<a href="https://master.d3piu59ky8arg.amplifyapp.com/" class="button button--large">Go To App</a>
-<a href="https://github.com/amar086/mws-restaurant-stage-1" class="button button--large">GitHub</a>
-
 ## Project Description
 
-For this project, a static webpage has been converted to a mobile-ready web application. The static design that lacks accessibility has been converted to be responsive on different sized displays and accessible for screen reader use. It has also been converted to a Progressive Web Application with the caching of some assets for offline use.
+This application is a mobile-ready web application that calls an external REST API (Google Maps API) to display restaurants on a map and allow users to select a restaurant to view its reviews. 
 
-Summary of the tools and technologies used:
-
+The application has the following capabilities:
+* Caching of assets for offline use (ServiceWorker)
 * Responsive Web Design
-* Accessibility
-* offline-first application
+* A11y (Accessibility)
+* Consume external API
+* Error handling 
 
+### Skills
+The application has been developing using: 
+* Javascript 
+* CSS3
+* ServiceWorker for caching and offline use 
+* Git, Github 
 
 
 {% comment %}You can also add blockquotes, which are shown at a larger width to help break up the layout and draw attention to key parts of your content:
@@ -68,8 +74,3 @@ A nice little feature: the carousel only advances when it is in view, so your vi
 	<img src="/images/restaurant-review-app/restau-reviews2.jpg">
 	<img src="/images/restaurant-review-app/restau-reviews3.jpg">
 </div>
-
-
-
-<a href="https://master.d3piu59ky8arg.amplifyapp.com/" class="button button--large">Go To App</a>
-<a href="https://github.com/amar086/mws-restaurant-stage-1" class="button button--large">GitHub</a>

@@ -2,26 +2,23 @@
 title: 'Memory Game'
 subtitle: "A customized version of the classic memory game 'Concentration'"
 date: 2018-06-30 00:00:00
-description: This is a complete browser-based card matching game that is well-designed, feature-packed with the utilization of JavaScript, DOM selectors and Event Listeners.
+description: This is a complete browser-based card matching game that feature-packed with the utilization of JavaScript, DOM selectors and Event Listeners.
 featured_image: '/images/memory-game-app/memory1.jpg'
+repo_link: https://github.com/amar086/fend-project-memory-game
+app_link: https://master.dbqntz1jllxum.amplifyapp.com/
 ---
 
 ![](/images/memory-game-app/memory1.jpg)
 
-<a href="https://master.dbqntz1jllxum.amplifyapp.com/" class="button button--large">Go To App</a>
-<a href="https://github.com/amar086/fend-project-memory-game" class="button button--large">GitHub</a>
-
 ## Project Description
 
-This project is about the building of a complete browser-based card matching game, also known as 'Concentration'. But is is not just any memory game! It is a well-designed, feature-packed memory game. 
+This project is about the building of a complete browser-based card matching game, also known as 'Concentration'. But is is not just any memory game! It is feature-packed memory game. 
 
-
-Summary of the tools and technologies used:
-
+### Skills
 * JavaScript
-* DOM
-* Browser Events
-* Version Control (Git)
+* HTML5
+* Browser Events Handling
+* Git, Github
 
 
 {% comment %}You can also add blockquotes, which are shown at a larger width to help break up the layout and draw attention to key parts of your content:
@@ -68,8 +65,3 @@ A nice little feature: the carousel only advances when it is in view, so your vi
 	<img src="/images/memory-game-app/memory2.jpg">
 	<img src="/images/memory-game-app/memory3.jpg">
 </div>
-
-
-
-<a href="https://master.dbqntz1jllxum.amplifyapp.com/" class="button button--large">Go To App</a>
-<a href="https://github.com/amar086/fend-project-memory-game" class="button button--large">GitHub</a>

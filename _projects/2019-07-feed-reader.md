@@ -2,22 +2,21 @@
 title: 'Feed Reader Testing'
 subtitle: 'A web application that reads RSS feeds'
 date: 2018-06-30 00:00:00
-description: Using the Jasmine testing framework, test-driven development techniques were used here to write tests against a pre-existing RSS feed reader application. 
+description: Using the Jasmine testing framework, test-driven development (TDD) techniques were used here to write tests against a pre-existing RSS feed reader application. 
 featured_image: '/images/feed-reader-testing-app/feed-reader1.jpg'
+repo_link: https://github.com/amar086/frontend-nanodegree-feedreader
+app_link: https://master.dcbnt4zvmq74e.amplifyapp.com/
 ---
 
 ![](/images/feed-reader-testing-app/feed-reader1.jpg)
-
-<a href="https://master.dcbnt4zvmq74e.amplifyapp.com/#" class="button button--large">Go To Project</a>
-<a href="https://github.com/amar086/frontend-nanodegree-feedreader" class="button button--large">GitHub</a>
 
 ## Project Description
 
 In this project, I have been given a feed reader application that another developer worked on and wrote tests against it using the Jasmine Testing Framework.
 
-Summary of the tools and technologies used:
+### Skills
 
-* Test-driven Development
+* Test-driven Development (TDD)
 * Jasmine Testing Framework
 
 
@@ -64,7 +63,3 @@ A nice little feature: the carousel only advances when it is in view, so your vi
 	<img src="/images/feed-reader-testing-app/feed-reader2.jpg">
 	<img src="/images/feed-reader-testing-app/feed-reader3.jpg">
 </div>
-
-
-<a href="https://master.dcbnt4zvmq74e.amplifyapp.com/#" class="button button--large">Go To Project</a>
-<a href="https://github.com/amar086/frontend-nanodegree-feedreader" class="button button--large">GitHub</a>
