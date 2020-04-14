@@ -5,7 +5,7 @@ description:
 featured_image: /images/demo/about.jpg
 ---
 
-I am Front-End web developer with interest in AWS Services. I enjoy using my attention to details, critical thinking, appetite for improvement and innovation as well as my undeniable love for making things to build responsive, dynamic, high-performance and beautiful user-friendly web applications. 
+I am Front-End web developer in the Washington D.C Metro Area. I enjoy using my attention to details, critical thinking, appetite for improvement and innovation as well as my undeniable love for making things to build responsive, dynamic, high-performance and beautiful user-friendly web applications.
 
 #### Programming Languages
 * JavaScript
@@ -24,20 +24,20 @@ I am Front-End web developer with interest in AWS Services. I enjoy using my att
 * Bower
 * Grunt
 * SPA
-* HTML, 
-* jQuery, 
-* Ajax, 
+* HTML,
+* jQuery,
+* Ajax,
 * Bootstrap
 * Jasmine
 * Ember
 * RESTful API
-* Npm 
-* Wai-Aria, 
+* Npm
+* Wai-Aria,
 * Webpack
 * Babel
 * Jest
 
-#### DevOps 
+#### DevOps
 * AWS Lambda
 * AWS CI/CD
 * AWS EC2
@@ -47,12 +47,12 @@ I am Front-End web developer with interest in AWS Services. I enjoy using my att
 * Docker
 * Kinesis
 * SQS
-* SNS 
+* SNS
 
 
-#### Methodologies 
+#### Methodologies
 * Scrum
 
-#### Spoken Language 
-* French (Native)
+#### Spoken Language
 * English (Proficient)
+* French (Native)
